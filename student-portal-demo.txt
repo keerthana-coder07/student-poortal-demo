@@ -1,0 +1,16 @@
+
+
+This is a basic idea for a student portal application.
+
+- Student registration and login
+- View academic timetable
+- Submit assignments online
+- View attendance records
+- Receive notifications from faculty
+
+Technologies:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js with Express
+- Database: MongoDB
+
+This project is part of a learning exercise to understand GitHub repository setup and documentation.
